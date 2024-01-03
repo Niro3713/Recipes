@@ -1,0 +1,10 @@
+/*Adding some style to the Recipe webpages*/
+h1{font-family:'Verdana', 'Geneva', 'Tahoma', sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+    color: brown;}
+*{background-color: rgb(211, 237, 245);}
+.ingredients{color: blue;}
+
+img{border: 10px solid;
+    padding:15px;}
