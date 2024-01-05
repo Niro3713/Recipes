@@ -1,0 +1,28 @@
+/*Adding some style to the Recipe webpages*/
+h1{font-family:'Verdana', 'Geneva', 'Tahoma', sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+    color: brown; width:100%;
+    text-align: center;}
+*{background-color: rgb(211, 237, 245);}
+.ingredients{color: blue;}
+
+img{border: 10px solid purple;
+    padding:15px; height: 200px; width:auto}
+
+a{height: 30px;padding-left: 130px; 
+    text-align: center; display:inline-flex;
+    font-size: larger;font-weight: 900;
+    font-family:Verdana, Geneva, Tahoma, sans-serif}
+
+
+.potato-latkes{height:100px; width: 100px; 
+    display:inline-block; margin: 48px;
+    margin-top: 30px;}
+.coquito{height:100px; width: 100px; 
+    display:inline-block; 
+    margin: 304px;margin-top: 30px;
+    margin-left: 400px;}
+.caramel-cheetos{height:100px; width: 100px;
+     display:inline-block; margin: 108px;
+     margin-top: 30px;}
